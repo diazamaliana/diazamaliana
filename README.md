@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diazamaliana
-- 👀 I’m interested in web developer, web design
+- 👀 I’m interested in web developer, web design, UI/UX design
 - 🌱 I’m currently learning ui/ux designer, laravel (php)
 - 📫 Reach me on diazamaliana@gmail.com 
     
