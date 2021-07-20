@@ -5,10 +5,9 @@
  
 
 # Generasi Gigih - Frontend Engineering Path
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diazamaliana&theme=react&repo=generasi-gigih-homework)](https://github.com/diazamaliana/generasi-gigih-homework)
-<br>
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diazamaliana&theme=react&repo=generasi-gigih-handson)](https://github.com/diazamaliana/generasi-gigih-handson)
+|  |  |
+| --- | --- |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diazamaliana&theme=react&repo=generasi-gigih-homework)](https://github.com/diazamaliana/generasi-gigih-homework) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diazamaliana&theme=react&repo=generasi-gigih-handson)](https://github.com/diazamaliana/generasi-gigih-handson) 
 
 
     
