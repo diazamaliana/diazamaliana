@@ -48,7 +48,7 @@
 
 ## Social Media
 <p align="left">
-<a href="https://linkedin.com/in/in/diazamaliana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/diazamaliana/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diazamaliana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/diazamaliana/" height="30" width="40" /></a>
 <a href="https://instagram.com/diazam.portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diazam.portfolio" height="30" width="40" /></a>
 <a href="https://dribbble.com/diazamaliana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="diazamaliana" height="30" width="40" /></a>
 <a href="https://medium.com/@diazamaliana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diazamaliana" height="30" width="40" /></a>
