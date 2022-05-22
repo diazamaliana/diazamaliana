@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m Diaz - aka @diazamaliana
+# 👋 Hello there, I’m Diaz
 
 ## About me
 - 👩‍💻 Currently working as a Software Developer - Frontend at [Xtremax](https://xtremax.com/) 
@@ -13,7 +13,6 @@
    * Completed 54 hours of GenerasiGIGIH Frontend Engineering Classes with Gojek Engineers. 
    * Assigned to do an internship at Photon Indonesia.
 1. [Photon Indonesia](https://www.photon.com/) | Sept - Dec 2021	
-   * Learned Angular in 2 weeks for project development.
    * Built an internal project called Hiring Scheduler using Angular, Typescript, SCSS, also added unit tests using Karma and checked code coverage using SonarQube (80% more pass).
    * Wrote a widget specification front-end development requirement for project documentation.
 
